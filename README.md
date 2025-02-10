@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💻 Hey there! I'm Sheefanigar Syed 👋  
 
-<!--
-**SHEEFANIGAR/SHEEFANIGAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate CSE student (AI & ML) | Tech Explorer | Quick Learner
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me  
+- 🎓 CSE student specializing in AI & ML.
+- 💡 Passionate about cutting-edge tech, including Generative AI and ML.  
+- 🔥 Always ready to learn quickly and explore new challenges.
+- 🎯 Focused on Salesforce, MuleSoft, Java Functional Programming, and AI-driven solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 📫 Connect with Me    
+💼 **LinkedIn**: https://www.linkedin.com/in/sheefa-nigar-syed-5347a3290/
+📧 **Email**: syedsheefanigar@gmail.com  
+
+🔥 **Let’s build something amazing together!** 🚀  
