@@ -13,21 +13,22 @@
 
 ## 🌐 Connect with me
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="LinkedIn"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="LinkedIn" width="40"/>
   </a>
-  
+
   <a href="mailto:syedsheefanigar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="40"/>
   </a>
-  
+
   <a href="https://in.pinterest.com/sheefacharms/_profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/09/Pinterest-Logo-2011-present.png" alt="Pinterest" width="40"/>
   </a>
-  
+
   <a href="https://x.com/MysticNigar" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://thumbs.dreamstime.com/b/twitter-new-logo-app-icon-logo-social-media-platform-logo-icon-new-twitter-logo-twitter-new-logo-app-icon-logo-social-305511782.jpg" alt="X (Twitter)" width="40"/>
   </a>
 </p>
 
