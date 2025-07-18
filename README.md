@@ -12,15 +12,12 @@
 
 
 ## 🌐 Connect with me
+📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)
 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="LinkedIn" width="40"/>
-  </a>
-
-  <a href="mailto:syedsheefanigar@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="40"/>
   </a>
 
   <a href="https://in.pinterest.com/sheefacharms/_profile/" target="_blank">
