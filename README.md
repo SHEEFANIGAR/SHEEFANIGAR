@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="LinkedIn"/>
   </a>
   
   <a href="mailto:syedsheefanigar@gmail.com" target="_blank">
