@@ -1,21 +1,19 @@
 # 💻 Hey there! I'm Sheefanigar Syed 👋  
 
-🚀 Passionate CSE student (AI & ML) | Tech Explorer | Quick Learner  
-
-<p align="right">
-  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="Coding GIF" width="200"/>
-</p>
+🚀 Passionate CSE student (AI & ML) | Tech Explorer | Quick Learner
 
 ## 👩‍💻 About Me  
-- 🎓 CSE student specializing in AI & ML.  
+- 🎓 CSE student specializing in AI & ML.
 - 💡 Passionate about cutting-edge tech, including Generative AI and ML.  
-- 🔥 Always ready to learn quickly and explore new challenges.  
+- 🔥 Always ready to learn quickly and explore new challenges.
 - 🎯 Focused on Salesforce, MuleSoft, Java Functional Programming, and AI-driven solutions.  
 
 ---
 
-## 🌐 Connect with me  
-📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)  
+
+## 🌐 Connect with me
+📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank" rel="noreferrer">
@@ -29,6 +27,6 @@
   <a href="https://x.com/MysticNigar" target="_blank" rel="noreferrer">
     <img src="https://thumbs.dreamstime.com/b/twitter-new-logo-app-icon-logo-social-media-platform-logo-icon-new-twitter-logo-twitter-new-logo-app-icon-logo-social-305511782.jpg" alt="X (Twitter)" width="40" height="40"/>
   </a>
-</p>  
+</p>
 
 🔥 **Let’s build something amazing together!** 🚀  
