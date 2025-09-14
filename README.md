@@ -15,6 +15,40 @@
 - 🎯 Focused on Salesforce, MuleSoft, Java Functional Programming, and AI-driven solutions.  
 
 ---
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- X (Twitter) -->
+  <a href="https://x.com/MysticNigar" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=phOKFKYpe00C&format=png" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Pinterest -->
+  <a href="https://in.pinterest.com/sheefacharms/_profile/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🔗 Badges  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/MysticNigar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x"/>
+  </a>
+  &nbsp;
+  <a href="https://in.pinterest.com/sheefacharms/_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-Follow-red?style=for-the-badge&logo=pinterest"/>
+  </a>
+</p>
 
 
 ## 🌐 Connect with me
