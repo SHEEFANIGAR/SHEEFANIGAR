@@ -19,8 +19,6 @@
 ## 🌐 Connect with me
 📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)
 
-### 🔗 Badges  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sheefanigar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
