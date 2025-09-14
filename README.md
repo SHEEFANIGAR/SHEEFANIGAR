@@ -15,6 +15,21 @@
 - 🎯 Focused on Salesforce, MuleSoft, Java Functional Programming, and AI-driven solutions.  
 
 ---
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHEEFANIGAR&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEEFANIGAR&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHEEFANIGAR&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ## 🌐 Connect with me
 📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)
