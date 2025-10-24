@@ -49,6 +49,9 @@
 </p>
 
 ---
+## Hacktoberfest
+[![An image of @sheefanigar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheefanigar)](https://holopin.io/@sheefanigar)
+---
 
 ## 🌐 Connect with me
 📩 **Have questions or collaboration ideas? Reach out to me at** [syedsheefanigar@gmail.com](mailto:syedsheefanigar@gmail.com)
