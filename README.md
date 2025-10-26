@@ -3,7 +3,7 @@
 🚀 Passionate CSE student (AI & ML) | Tech Explorer | Quick Learner
 
 <p align="center">
-  <img src="https://github.com/kaurpreetman/kaurpreetman/blob/main/grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/SHEEFANIGAR/SHEEFANIGAR/blob/main/grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
